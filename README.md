@@ -1,1 +1,1 @@
-# Hurrican-Tracker
+# Hurricane-Tracker
